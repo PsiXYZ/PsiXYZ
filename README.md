@@ -16,7 +16,9 @@ predict the behavior of complex polymer systems.I am particularly interested in 
 reaction kinetics, thermodynamics, and morphology
 evolution to advance sustainable polymer processing.
 
-![Polymer morphology simulation](figures/main.svg)
+<p align="center">
+  <img src="figures/main.svg" width="45%" alt="krasivoe">
+</p>
 
 ## Research Interests
 
