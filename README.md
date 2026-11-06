@@ -17,7 +17,7 @@ reaction kinetics, thermodynamics, and morphology
 evolution to advance sustainable polymer processing.
 
 <p align="center">
-  <img src="figures/main.svg" width="85%" alt="krasivoe">
+  <img src="figures/main.png" width="85%" alt="krasivoe">
 </p>
 
 ## Research Interests
